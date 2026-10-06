@@ -1,7 +1,4 @@
- Ransomware Educacional em Python
-
-
-
+ Ransomware Educacional em Python Em desenvolvimento em breve disponivel
 
 
 📌 Sobre o projeto
@@ -35,16 +32,6 @@ Linux Ubuntu
 Git
 
 GitHub
-
-📂 Estrutura do projeto
-
-dio-desafio-ransomware-python/
-├── README.md
-├── encrypter.py
-├── decrypter.py
-├── requirements.txt
-├── docs/
-└── images/
 
 🔐 Conceitos estudados
 
